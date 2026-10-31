@@ -19,7 +19,7 @@
 | **Tahun Akademik** | Semester Ganjil 2026/2027 |
 | **Judul Proyek Web** | **InventoHub - Warehouse Inventory Management System** |
 | **Tautan Repositori GitHub** | `https://github.com/oiesukmawaty/inventohub-uas-wad` |
-| **Tautan Live Application** | `https://inventohub-production.up.railway.app` *(atau URL deployment aktif)* |
+| **Tautan Live Application** | `https://inventohub-uas-wad.vercel.app/` |
 | **Tautan Video Presentasi & Demo** | `https://youtu.be/[link-video-presentasi-anda]` *(Maksimal 15 Menit)* |
 
 ### Kredensial Akun Pengujian (Testing Credentials):

@@ -8,3 +8,4 @@ ENV PORT=10000
 EXPOSE 10000
 
 CMD ["node", "preview-server.js"]
+

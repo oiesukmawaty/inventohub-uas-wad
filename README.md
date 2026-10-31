@@ -13,6 +13,7 @@
 * **Ketua Program Studi:** Dyas
 * **Institusi:** Universitas Cakrawala
 * **Tahun Akademik:** Semester Ganjil 2026/2027
+* **Live Application URL:** https://inventohub-uas-wad.vercel.app/
 
 ---
 
