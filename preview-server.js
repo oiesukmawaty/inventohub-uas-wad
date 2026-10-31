@@ -11,7 +11,7 @@
 const http = require('http');
 const url = require('url');
 
-const PORT = 8000;
+const PORT = process.env.PORT || 8000;
 
 // Mock Data State
 let categories = [

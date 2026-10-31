@@ -1,0 +1,14 @@
+{
+  "name": "inventohub-uas-wad",
+  "version": "1.0.0",
+  "description": "InventoHub - Warehouse Inventory Management System (UAS Web Application Development Universitas Cakrawala)",
+  "main": "preview-server.js",
+  "scripts": {
+    "start": "node preview-server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Halimah Sukmawaty",
+  "license": "MIT"
+}
