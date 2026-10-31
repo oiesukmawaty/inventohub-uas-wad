@@ -140,7 +140,7 @@ function renderLayout(title, content, activeNav = 'dashboard', flashMessage = nu
 </html>`;
 }
 
-const server = http.createServer((req, res) => {
+function handleRequest(req, res) {
     const parsedUrl = url.parse(req.url, true);
     const pathname = parsedUrl.pathname;
 
@@ -550,12 +550,17 @@ const server = http.createServer((req, res) => {
         res.writeHead(302, { 'Location': '/dashboard' });
         res.end();
     }
-});
+}
 
-server.listen(PORT, () => {
-    console.log(`================================================================`);
-    console.log(` InventoHub Demo Server is running on http://localhost:${PORT}`);
-    console.log(` Identitas: Halimah Sukmawaty (WAD05 Universitas Cakrawala)`);
-    console.log(`================================================================`);
-});
+module.exports = handleRequest;
+
+if (require.main === module) {
+    const server = http.createServer(handleRequest);
+    server.listen(PORT, () => {
+        console.log(`================================================================`);
+        console.log(` InventoHub Demo Server is running on http://localhost:${PORT}`);
+        console.log(` Identitas: Halimah Sukmawaty (WAD05 Universitas Cakrawala)`);
+        console.log(`================================================================`);
+    });
+}
 
