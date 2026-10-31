@@ -57,7 +57,7 @@ Ikuti langkah-langkah berikut untuk menjalankan sistem di lingkungan lokal:
 
 ### 1. Kloning Repositori
 ```bash
-git clone https://github.com/[username-anda]/inventohub-uas-wad.git
+git clone https://github.com/oiesukmawaty/inventohub-uas-wad.git
 cd inventohub-uas-wad
 ```
 
