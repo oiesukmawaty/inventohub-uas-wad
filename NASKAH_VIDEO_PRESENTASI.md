@@ -1,7 +1,7 @@
 # NASKAH & PANDUAN PEREKAMAN VIDEO PRESENTASI UAS
 ## WEB APPLICATION DEVELOPMENT (WAD05 / WAD04) - UNIVERSITAS CAKRAWALA
 ### APLIKASI: INVENTOHUB (WAREHOUSE INVENTORY MANAGEMENT SYSTEM)
-**Penyaji:** Halimah Sukmawaty (NIM: `[NIM Mahasiswa]`)  
+**Penyaji:** Halimah Sukmawaty (NIM: `25120300037`)  
 **Durasi Total Target:** 11 - 13 Menit (Maksimal Batas Ujian: 15 Menit)  
 **Tools Perekaman:** Loom, OBS Studio, Google Meet Record, atau Zoom (Share Screen + Wajah di Sudut Kamera).
 
@@ -132,3 +132,4 @@
 >
 > *Wabillahi taufiq wal hidayah,  
 > Wassalamu’alaikum Warahmatullahi Wabarakatuh."*
+

@@ -115,3 +115,4 @@ INSERT INTO `transactions` (`id`, `user_id`, `product_id`, `type`, `quantity`, `
 (4, 2, 3, 'out', 30, 'TRX-OUT-20261012-002', 'Distribusi ke divisi logistik & admin', '2026-10-12'),
 (5, 1, 4, 'in', 20, 'TRX-IN-20261015-003', 'Pengadaan lakban packaging', '2026-10-15'),
 (6, 2, 4, 'out', 16, 'TRX-OUT-20261020-003', 'Pemakaian packaging batch 42', '2026-10-20');
+

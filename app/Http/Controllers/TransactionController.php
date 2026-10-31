@@ -71,3 +71,4 @@ class TransactionController extends Controller
             ->with('success', 'Transaksi inventaris berhasil dicatat dan stok telah diperbarui.');
     }
 }
+

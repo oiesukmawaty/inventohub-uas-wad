@@ -9,7 +9,7 @@
 | Data Komponen | Rincian Keterangan |
 | :--- | :--- |
 | **Nama Lengkap Mahasiswa** | **Halimah Sukmawaty** |
-| **Nomor Induk Mahasiswa (NIM)** | `[NIM Mahasiswa]` |
+| **Nomor Induk Mahasiswa (NIM)** | `25120300037` |
 | **Program Studi** | S1 Ilmu Komputer |
 | **Kelas Perkuliahan** | WAD05 (Reguler 01) |
 | **Mata Kuliah** | Web Application Development (UAS Blok A) |
@@ -361,4 +361,5 @@ Pola arsitektur **Model-View-Controller (MVC)** adalah fondasi utama yang memisa
    * Riwayat mutasi lengkap dengan filter tipe mutasi.
 
 ---
-*Laporan ini disusun secara mandiri dan komprehensif oleh Halimah Sukmawaty sebagai bukti pemenuhan syarat kelulusan Ujian Akhir Semester Web Application Development Universitas Cakrawala.*
+*Laporan ini disusun secara mandiri dan komprehensif oleh Halimah Sukmawaty (NIM: 25120300037) sebagai bukti pemenuhan syarat kelulusan Ujian Akhir Semester Web Application Development Universitas Cakrawala.*
+

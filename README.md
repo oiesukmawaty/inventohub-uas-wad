@@ -6,7 +6,7 @@
 
 ## 📌 Identitas Mahasiswa
 * **Nama Lengkap:** Halimah Sukmawaty
-* **NIM:** [NIM Mahasiswa]
+* **Nomor Induk Mahasiswa (NIM):** 25120300037
 * **Program Studi:** S1 Ilmu Komputer
 * **Mata Kuliah:** Web Application Development (WAD05)
 * **Dosen Pengampu:** Wahyu Ari
@@ -167,3 +167,4 @@ uas_wad_halimah/
 
 ---
 *Dibuat dengan dedikasi untuk penyelesaian Ujian Akhir Semester Web Application Development - Universitas Cakrawala.*
+

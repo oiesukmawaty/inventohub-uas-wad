@@ -79,3 +79,4 @@ class AuthController extends Controller
             ->with('success', 'Anda telah berhasil keluar dari sistem.');
     }
 }
+

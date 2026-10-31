@@ -106,3 +106,4 @@ class ProductController extends Controller
             ->with('success', 'Produk berhasil dihapus dari inventaris.');
     }
 }
+
